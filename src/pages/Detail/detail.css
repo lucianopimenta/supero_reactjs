@@ -1,0 +1,13 @@
+.book-info{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+
+.book-info h1{
+    text-align: center;
+}
+
+.book-info img{
+    border-radius: 50px;
+}

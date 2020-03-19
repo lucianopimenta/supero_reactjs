@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "As Crônicas de David",
+        "ISBN": 1234567891011,
+        "autor": "Fulano de tal",
+        "editora": "Editora 3 Corações",
+        "ano": 2015,
+        "idioma": "português",
+        "peso": 250,
+        "dimensoes":{
+            "altura": 15,
+            "largura": 10,
+            "comprimento": 4
+        }
+    },
+    {
+        "id": 2,
+        "titulo": "A Garota do Lago",
+        "ISBN": 9788562409882,
+        "autor": "Charlie Donlea",
+        "editora": "Editora Faro",
+        "ano": 2016,
+        "idioma": "Português",
+        "peso": 549,
+        "dimensoes":{
+            "altura": 22.6,
+            "largura": 16,
+            "comprimento": 2.8
+        }
+    },
+    {
+        "id": 3,
+        "titulo": "Quem Era Ela",
+        "ISBN": 9788551001394,
+        "autor": "JP Delaney",
+        "editora": "Editora Intrínseca",
+        "ano": 2017,
+        "idioma": "Português",
+        "peso": 572,
+        "dimensoes":{
+            "altura": 23,
+            "largura": 16,
+            "comprimento": 1.6
+        }
+    },
+    {
+        "id": 4,
+        "titulo": "Do Mil ao Milhão. Sem Cortar o Cafezinho.",
+        "ISBN": 9788595083271,
+        "autor": "Thiago Nigro",
+        "editora": "Editora HarperCollins",
+        "ano": 2018,
+        "idioma": "Português",
+        "peso": 349,
+        "dimensoes":{
+            "altura": 23,
+            "largura": 15.2,
+            "comprimento": 1.4
+        }
+    },
+    {
+        "id": 5,
+        "titulo": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+        "ISBN": 9788568014004,
+        "autor": "Napoleon Hill",
+        "editora": "Citadel Editora",
+        "ano": 2014,
+        "idioma": "Português",
+        "peso": 249,
+        "dimensoes":{
+            "altura": 23,
+            "largura": 15.2,
+            "comprimento": 1.6
+        }
+    },
+    {
+        "id": 6,
+        "titulo": "Corpo fala: A linguagem silenciosa da comunicação não verbal",
+        "ISBN": 9788532602084,
+        "autor": "Pierre Weil",
+        "editora": "Editora Vozes",
+        "ano": 2015,
+        "idioma": "Português",
+        "peso": 499,
+        "dimensoes":{
+            "altura": 20.8,
+            "largura": 13.6,
+            "comprimento": 1.6
+        }
+    },
+    {
+        "id": 7,
+        "titulo": "Inteligência visual: Aprenda a arte da percepção e transforme sua vida",
+        "ISBN": 9788537815991,
+        "autor": "Amy E. Herman",
+        "editora": "Editora Zahar",
+        "ano": 2016,
+        "idioma": "Português",
+        "peso": 399,
+        "dimensoes":{
+            "altura": 22.8,
+            "largura": 16,
+            "comprimento": 2.2
+        }
+    },
+    {
+        "id": 8,
+        "titulo": "Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage",
+        "ISBN": 9780393337457,
+        "autor": "Paul Ekman",
+        "editora": "W. W. Norton & Company",
+        "ano": 2009,
+        "idioma": "Inglês",
+        "peso": 340,
+        "dimensoes":{
+            "altura": 21.1,
+            "largura": 14,
+            "comprimento": 2.8
+        }
+    },
+    {
+        "id": 9,
+        "titulo": "Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life",
+        "ISBN": 9780805083392,
+        "autor": "Paul Ekman",
+        "editora": "Owl Books (NY)",
+        "ano": 2007,
+        "idioma": "Inglês",
+        "peso": 272,
+        "dimensoes":{
+            "altura": 21.1,
+            "largura": 14.4,
+            "comprimento": 2.3
+        }
+    },
+    {
+        "id": 10,
+        "titulo": "The Dictionary of Body Language: A Field Guide to Human Behavior",
+        "ISBN": 9780062846877,
+        "autor": "Joe Navarro",
+        "editora": "William Morrow Paperbacks",
+        "ano": 2018,
+        "idioma": "Inglês",
+        "peso": 272,
+        "dimensoes":{
+            "altura": 18.4,
+            "largura": 12.7,
+            "comprimento": 1.3
+        }
+    },
+    {
+        "id": 11,
+        "titulo": "A Sutil Arte de Ligar o F*da-Se: Uma estratégia inusitada para uma vida melhor",
+        "ISBN": 9788551002490,
+        "autor": "Mark Manson",
+        "editora": "Editora Intrínseca",
+        "ano": 2017,
+        "idioma": "Português",
+        "peso": 295,
+        "dimensoes":{
+            "altura": 20.8,
+            "largura": 13.6,
+            "comprimento": 0.6
+        }
+    },
+    {
+        "id": 12,
+        "titulo": "O poder do hábito",
+        "ISBN": 9788539004119,
+        "autor": "Charles Duhigg",
+        "editora": "Editora Objetiva",
+        "ano": 2012,
+        "idioma": "Português",
+        "peso": 658,
+        "dimensoes":{
+            "altura": 23.2,
+            "largura": 15.4,
+            "comprimento": 2.4
+        }
+    }
+]
